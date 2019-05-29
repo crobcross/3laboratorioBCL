@@ -1,0 +1,150 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.contenedor	 {
+  background-image:url(../images/banner1.jpg);
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+  width: 100%;
+  height: 560px;
+
+}
+.opacidad {
+	background-color:rgb(0,0,0);
+   opacity:0.6;  
+   height: 560px;
+}
+.gran {
+	color: #FFF;
+	font-size: 25px;
+	font-family: Arial;
+	margin-left: 10%;
+	padding: 2%;
+
+}
+.menu {
+	color: #FFF;
+	font-family: Arial;
+	font-size: 12px;
+	padding-top:3%;
+	text-align: center;
+}
+.menu:hover {
+	transition: 1s;
+	color: #037FFB;
+}
+.boton1 {
+	color: #FFF;
+	background: #2D95F3;
+	font-family: Arial;
+	font-size: 11px;
+	margin-top: 2.5%;
+	padding:.5%; 
+	text-align: center;
+
+}
+.rowborde {
+	border-bottom: solid 1px white;
+}
+
+.texcont1 {
+	color: #FFF;
+	font-size: 37px;
+	text-transform: capitalize;
+	margin-top: 15%;
+	margin-left: 12%;
+}
+.text2cont1 {
+	color: #FFF;
+	font-size: 20px;
+	text-transform: capitalize;
+	margin-top: 0.5%;
+	margin-left: 12%;
+}
+.botonsub {
+	color: #FFF;
+	text-align: center;
+	width: 100px;
+	font-size: 14px;
+	padding: 10%;
+	margin-left:125px; 
+	border: solid 2px white;
+	text-transform: capitalize;	
+}
+.botonsub2 {
+	color: #FFF;
+	text-align: center;
+	width: 100px;
+	font-size: 14px;
+	padding: 4%;
+	margin-left:160px; 
+	border: solid 2px white;
+	text-transform: capitalize;		
+}
+/*contenedor 2 */
+.contenedor2 {
+	background: #fff;
+	width: 100%;
+	height: 450px;
+}
+.textcont2 {
+	color: #57585C;
+	font-size: 18px;
+	padding-top:15%;
+	margin-left: 30%;
+	text-transform: capitalize;		
+}
+.negrita {
+	color: #000;
+}
+.subtextcont2 {
+	color: #929292;
+	font-size: 12px;
+	margin-left: 30%;	
+}
+.imgcont2 {
+	margin-top:  15%;
+	margin-left: 5%;
+	width: 300px;
+	height: 225px;
+	box-shadow: .5px .5px .5px #000;
+}
+.icono1 {
+	padding-left: 90%;
+	text-align: center;
+	font-size: 20px;
+}
+.icono2 {		
+	text-align: center;
+	padding-left: 50%;	
+	font-size: 20px;
+}
+.icono3 {		
+	text-align: center;
+	padding-left: 20%;	
+	font-size: 20px;
+}
+.icono4 {		
+	text-align: center;
+	right: 20%;
+	font-size: 20px;
+}
+.icon1 {
+	color: #000;
+	margin-top: 5%;
+	font-size: 25px;
+	font-family: arial;
+}
+.years {
+	color:#929292;
+	font-size: 15px; 
+}
+.definiciones {
+	color: #57585C;
+	font-size: 10px;
+	text-transform: uppercase;
+}
